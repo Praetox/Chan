@@ -1,0 +1,17 @@
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\bin\Release\Chanmongler.exe
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\bin\Release\Chanmongler.pdb
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\ResolveAssemblyReference.cache
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmConfig.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmContact.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmHelp.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmMain.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmNews.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmSearch.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.frmTags.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.Properties.Resources.resources
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\GenerateResource.read.1.tlog
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\GenerateResource.write.1.tlog
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.exe
+G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.pdb
+F:\Visual Basic\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler\obj\Release\Chanmongler.pdb

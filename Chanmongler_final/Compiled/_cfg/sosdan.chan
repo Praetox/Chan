@@ -1,0 +1,5 @@
+File		Name		Chanver		CMVer
+SOS-Dan		SOS-Dan		1.0.1		1.0.5
+
+Name	Description			File	Board index						Pre-Boardpage					Post-Boardpage		Pages	Thread prefix				Image prefix				Pre-threads				Post-threads		Threadsplit		Pre-threadlink		Post-threadlink		Pre-images				Post-images				Imagesplit							Pre-imagelink		Post-imagelink		Pre-thumbnail		Post-thumbn.	Pre-ThreadID						Post-ThreadID		
+sos		SOS-Dan				sos		http://www.sos-dan.com/img/		http://www.sos-dan.com/img/		.html				150		http://www.sos-dan.com		http://www.sos-dan.com		set_inputs("postform")	<tbody><tr><td>		 [<a href="		!null~				">Reply</a>]		set_inputs("postform")	set_delpass("delform")	File: <a target="_blank" href=		"					"					"> <img src="		" width="		http://www.sos-dan.com/img/res/		.html

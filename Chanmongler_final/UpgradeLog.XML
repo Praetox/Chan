@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chanmongler">
+</Property><Property Name="Solution File" Value="G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler.sln">
+</Property><Property Name="User Options File" Value="G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Chanmongler.suo">
+</Property><Property Name="Date" Value="9. desember 2010">
+</Property><Property Name="Time" Value="19:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Chanmongler.sln" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Chanmongler.suo" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler.suo">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Chanmongler.csproj" Description="Project file successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Chanmongler.csproj">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Chanmongler.csproj.user" Description="Project user file successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Chanmongler.csproj.user">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmConfig.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmConfig.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmConfig.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmConfig.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmContact.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmContact.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmContact.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmContact.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmHelp.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmHelp.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmHelp.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmHelp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmMain.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmMain.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmNews.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmNews.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmNews.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmNews.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmSearch.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmSearch.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmSearch.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmSearch.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmTags.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmTags.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmTags.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmTags.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Grabber.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Grabber.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\InputBox.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\InputBox.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Program.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Program.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Properties\Settings.settings" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\PT_48.ico" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\PT_48.ico">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmConfig.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmConfig.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmContact.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmContact.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmHelp.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmHelp.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmMain.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmNews.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmNews.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmSearch.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmSearch.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\frmTags.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\frmTags.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Properties\Resources.resx" Description="File successfully backed up as G:\SAUCE\PTSOURCE\Chan\Chanmongler_final\Backup\Chanmongler\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Chanmongler.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chanmongler" Source="Chanmongler\Chanmongler.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Chanmongler.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Chanmongler.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chanmongler" Source="Chanmongler\Chanmongler.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
